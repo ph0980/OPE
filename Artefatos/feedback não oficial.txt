@@ -1,4 +1,4 @@
-7 - Declaração do problema ta uma merda
+
 11- lista de restrições só tem uma e nem é restrição
 12- lista de características só tem 10 características e no dele tem 47
 13- prioridade esforço risco e baseline falta colocar a prioridade, oesforço, o risco e a baseline das características q faltam
