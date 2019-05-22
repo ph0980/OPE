@@ -1,9 +1,0 @@
-
-11- lista de restrições só tem uma e nem é restrição
-12- lista de características só tem 10 características e no dele tem 47
-13- prioridade esforço risco e baseline falta colocar a prioridade, oesforço, o risco e a baseline das características q faltam
-14- matriz de rastreabilidade falta rastrear algumas caracteristicas
-20- a seta q indica o fluxo só tem esquerda e direita mas as vezes o fluxo é pra cima ou pra baixo
-21- nem existe
-
- 
